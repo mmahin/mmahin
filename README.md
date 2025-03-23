@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Mahin</h1>
+<h3 align="center">Ph.D. Candidate | Machine Learning & Causal Inference | Synthetic Data | Geospatial Analysis</h3>
 
-<!--
-**mmahin/mmahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: **Synthetic Yeast Image Generator | Causal Inference for Weather Patterns**
+- 🌱 I’m learning: **Advanced ML Ops, Spatial Statistics, Rust**
+- 💬 Ask me about: **Causal ML, Synthetic Data Generation, Deep Learning**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mdmahin) • [Website](https://your-website-link.com)
+- 📄 Know more about me: [Resume](https://your-resume-link.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills
+- **Languages**: Python, R, C++, SQL, Rust
+- **ML/DL**: PyTorch, TensorFlow, Scikit-learn, Keras, VAE, GANs, UNET, LSTM
+- **Tools**: Docker, Git, Conda, Postman, Heroku, PAPI, Valgrind
+- **Research**: Causal Inference, Synthetic Data, Spatial Analysis
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmahin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmahin&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmahin&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mmahin&theme=dracula&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🔬 [**Synthetic Yeast Cell Generator**](https://github.com/your-synthetic-image-generator)
+  - Generates labeled microscopy image datasets for training DL models
+- 🌍 [**Causal Humidity Analysis**](https://github.com/your-causal-project)
+  - Uses DoWhy + EconML to uncover causal effects in meteorological data
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/mdmahin"><img src="https://img.shields.io/badge/LinkedIn-mdmahin-blue?logo=linkedin" /></a>
+  <a href="mailto:mmahin@uh.edu"><img src="https://img.shields.io/badge/Email-mmahin@uh.edu-red?logo=gmail" /></a>
+  <a href="https://your-website-link.com"><img src="https://img.shields.io/badge/Website-Click_Here-informational?logo=google-chrome" /></a>
+</p>

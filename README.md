@@ -32,7 +32,19 @@ I aim to bridge AI research with real-world impact — especially in Earth and H
 
 ## 🚀 Featured Projects (Grouped by Domain)
 
-### 🧠 Reinforcement Learning
+### 💬 Large Language Models (LLMs)
+
+- 📦 **FinTech SQL Generator with Graph RAG**  
+  *LangChain, Neo4j, LangSmith, OpenAI API*  
+  ➤ Builds Knowledge Graphs from docs and generates SQL using RAG + LLMs. *(Private)*
+
+- ✍️ **[Fine-Tuning DistilBERT for Sentiment Analysis](https://github.com/mmahin/Detecting-Linguesting-Clues-From-Fake-Reviews-and-Classifying-Fake-Reviews)**  
+  *Huggingface Transformers*  
+  ➤ Tuned DistilBERT for binary sentiment classification on IMDB dataset.
+
+---
+
+### 🧠 Reinforcement Learning and Generative AI
 
 - 🔁 [**Texas Hold’em AI using DQN**](https://github.com/mmahin/Optimizing-Experience-Replay-for-Partially-Observable-Environment-Texas-Hold-em-Poker-and-DQN)  
   *TensorFlow, Game AI, Optimized Experience Replay*  
@@ -41,6 +53,9 @@ I aim to bridge AI research with real-world impact — especially in Earth and H
 - 🎯 [**Optimizing Beta-VAE with RL (n-arm bandit)**](https://github.com/mmahin/Optimized_Beta_VAE)  
   *PyTorch, Meta-learning*  
   ➤ Reinforcement-learned generative model tuning for transfer tasks.
+
+- 🎯 [**Optimized Beta-VAE**](https://github.com/mmahin/Optimized_Beta_VAE)  
+  ➤ Reinforcement-learned generative modeling with performance-focused tuning.
 
 ---
 
@@ -60,27 +75,6 @@ I aim to bridge AI research with real-world impact — especially in Earth and H
 
 ---
 
-### 💬 Large Language Models (LLMs)
-
-- 📦 **FinTech SQL Generator with Graph RAG**  
-  *LangChain, Neo4j, LangSmith, OpenAI API*  
-  ➤ Builds Knowledge Graphs from docs and generates SQL using RAG + LLMs. *(Private)*
-
-- ✍️ **[Fine-Tuning DistilBERT for Sentiment Analysis](https://github.com/mmahin/Detecting-Linguesting-Clues-From-Fake-Reviews-and-Classifying-Fake-Reviews)**  
-  *Huggingface Transformers*  
-  ➤ Tuned DistilBERT for binary sentiment classification on IMDB dataset.
-
----
-
-### 🧪 Generative AI
-
-- 🧬 [**Synthetic Yeast Image Generator**](https://github.com/mmahin/synthetic-yeast-cell-image-generator)  
-  ➤ Fluorescence image + label generation for computer vision tasks.
-
-- 🎯 [**Optimized Beta-VAE**](https://github.com/mmahin/Optimized_Beta_VAE)  
-  ➤ Reinforcement-learned generative modeling with performance-focused tuning.
-
----
 
 ### 📊 Data Analysis & Machine Learning
 
@@ -112,16 +106,16 @@ I aim to bridge AI research with real-world impact — especially in Earth and H
 
 | Project Name | Domains | Tools Used |
 |--------------|---------|-------------|
-| Synthetic Yeast Generator | Deep Learning, Gen AI | OpenCV, Mask R-CNN |
-| Beta-VAE Optimization | RL, Gen AI | PyTorch, Bandits |
-| Hold’em DQN | RL | TensorFlow |
-| Brain Tumor Segmentation | Deep Learning | Keras, OpenCV |
-| Fake Review Detection | Deep Learning, LLM | TF-IDF, RNN, BERT |
-| FinTech KG+SQL Gen | LLMs | LangChain, Neo4j, OpenAI |
+| Synthetic Yeast Generator | Image Processing, Deep Learning | OpenCV, Mask R-CNN |
+| Beta-VAE Optimization | Reinfeocement Learning, Generative AI | Variational Auto-encoders | PyTorch |
+| Hold’em DQN | Reinfeocement Learning, Deep Learning | TensorFlow |
+| Brain Tumor Segmentation | Deep Learning, Image Processing | Keras, OpenCV |
+| Fake Review Detection | Natural Language Processing, Deep Learning, LLM | TF-IDF, RNN, BERT |
+| FinTech KG+SQL Gen | LLMs, Graph AI, Semantic Search | LangChain, Neo4j, OpenAI |
 | Sentiment Classification | LLMs | Huggingface, PyTorch |
-| Imbalanced Data Study | ML | Scikit-learn, R |
-| Flood Prediction (CIVIC-II) | ML | ArcGIS, Python, Heroku |
-| Norma / Sirius / Threshold Corr. | ML / Statistical Mining | Pandas, Grid Mining |
+| Imbalanced Data Study | Supervised Machine Learning, Imbalanced Data Learning | Scikit-learn, R |
+| Flood Prediction (CIVIC-II) | Data Analysis, Statistical Models | ArcGIS, Python, Heroku |
+| Norma / Sirius / Threshold Corr. | Unsupervised Machine Learning, Association Mining, Statistical Mining | Clustering, Pattern Searching, Spatial Statistics | Pandas, Grid Mining |
 | SVM Optimization | Other | CVX, Gradient Descent |
 
 ---

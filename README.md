@@ -127,7 +127,7 @@ I aim to bridge AI research with real-world impact — especially in Earth and H
 | Project Name | Domains | Tools Used |
 |--------------|---------|-------------|
 | Synthetic Yeast Generator | Image Processing, Deep Learning | OpenCV, Mask R-CNN |
-| Beta-VAE Optimization | Reinfeocement Learning, Generative AI | Variational Auto-encoders | PyTorch |
+| Beta-VAE Optimization | Reinfeocement Learning, Generative AI | Variational Auto-encoders, PyTorch |
 | Hold’em DQN | Reinfeocement Learning, Deep Learning | TensorFlow |
 | Brain Tumor Segmentation | Deep Learning, Image Processing | Keras, OpenCV |
 | Fake Review Detection | Natural Language Processing, Deep Learning, LLM | TF-IDF, RNN, BERT |
@@ -135,7 +135,7 @@ I aim to bridge AI research with real-world impact — especially in Earth and H
 | Sentiment Classification | LLMs | Huggingface, PyTorch |
 | Imbalanced Data Study | Supervised Machine Learning, Imbalanced Data Learning | Scikit-learn, R |
 | Flood Prediction (CIVIC-II) | Data Analysis, Statistical Models | ArcGIS, Python, Heroku |
-| Norma / Sirius / Threshold Corr. | Unsupervised Machine Learning, Association Mining, Statistical Mining | Clustering, Pattern Searching, Spatial Statistics | Pandas, Grid Mining |
+| Norma / Sirius / Threshold Corr. | Unsupervised Machine Learning, Association Mining, Statistical Mining | Clustering, Pattern Searching, Spatial Statistics , Pandas, Grid Mining |
 | SVM Optimization | Other | CVX, Gradient Descent |
 
 ---

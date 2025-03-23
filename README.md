@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Md Mahin</h1>
-<h3 align="center">Ph.D. Candidate | Spatial Data Mining • Causal Inference • LLMs • Geospatial AI</h3>
+<h1 align="center">👋 Hi, I'm Md Mahin(Ph.D.))</h1>
+<h3 align="center">Data Mining • LLMs • Generative AI • Reinfrocement Learning • Deep Learning • Machine Learning • Causal Inference • Spatial Statistics</h3>
 
 ---
 
-🎓 **Ph.D. in Computer Science**  
-📍 *University of Houston* | *Graduating Dec 2024*  
-🧪 Specializing in: spatial pattern mining, causal inference, LLM-based systems, synthetic data, deep learning
+🎓 **Ph.D. and M.Sc. in Computer Science**  
+📍 *University of Houston* | *2024*  
+🧪 Currently Working On: LLM-based systems, Reinfrocement Learning, Causal Inference,  Pattern Mining using Supervised or Unsupervised Learning (Classification Models, Deep Learning, Clustering Approaches)
 
 ---
 

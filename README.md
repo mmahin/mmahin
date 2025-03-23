@@ -29,7 +29,27 @@ I aim to bridge AI research with real-world impact — especially in Earth and H
 - **Cloud & DevOps:** AWS SageMaker, Heroku, Postman, Docker  
 
 ---
+## 💼 Experience Highlights
+- **MD Anderson Cancer Center (March,2025- Present)**  
+  Postdoctoral Fellow at Radiation Oncology- Research.
 
+- **Large Language Model Fellowship at Fellowship.AI (January,2025- March,2025)**  
+  Building a Knowledge Graph RAG LLM system for financial compliance.
+
+- **University of Houston (2019–2024)**  
+  Instructional Assistant & Researcher in Data Mining, Deep Learning, NLP, and Reinforcement Learning.
+
+- **Internship at Texas Commission on Environmental Quality (June,2023- July,2023)**  
+  MLEIP Intern | Built anomaly detection models using R + SQL.
+
+- **Computational Bio-medicine Lab (2021–2022)**  
+  Developed a real-time flood prediction tool using Heroku, GIS, and Python.
+
+- **Lecturer (2016–2019)**  
+  Taught CS courses, mentored student research, led university programming events.
+
+
+---
 ## 🚀 Featured Projects (Grouped by Domain)
 
 ### 💬 Large Language Models (LLMs)
